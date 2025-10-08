@@ -28,3 +28,7 @@ Introducing the WordFlow Bot — a script designed by me to automate gameplay fo
      ```javascript
      await start();
      ```
+
+## Preview
+
+![Game screenshot](./example.png)
